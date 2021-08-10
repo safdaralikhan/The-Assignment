@@ -26,7 +26,7 @@
     <title>DigiMark Digital Marketing and Agency HTML Template</title>
 
     <!--favicon icon-->
-    <link rel="icon" href="img/favicon.png" type="image/png" sizes="16x16">
+    <link rel="icon" href="img/assignment WritingB.png" type="image/png" sizes="16x16">
 
     <!--google fonts-->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700%7COpen+Sans:400,600&amp;display=swap"
