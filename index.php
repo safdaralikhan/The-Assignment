@@ -86,44 +86,7 @@
             </div>
         </section>
         <!--hero section end-->
-        <br>
-        <br>
-        <!-- <section class="call-to-action ptb-90"style="background: url)">
-            <div class="container-fluid bg-primary">
-                <div class="row justify-content-center">
-                    <div class="col-md-8 col-lg-8">
-                        <div class="call-to-action-content text-white text-center mb-4">
-                            <h2 class="text-white mb-1 animate__animated animate__heartBeat">It’s in the numbers</h2>
-                            
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-
-                    <div class="col-md-6 col-lg-4">
-                        <div class="single-counter p-4 text-center text-white">
-                            <span class="ti-headphone-alt icon-md"></span>
-                            <h3 class="mb-2 text-white">25000</h3>
-                            <h5 class="text-white">DELIVERED ORDERS</h5>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="single-counter p-4 text-center text-white">
-                            <span class="ti-cup icon-md"></span>
-                            <h3 class="mb-2 text-white">10550</h3>
-                            <h5 class="text-white">EXPERTS</h5>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="single-counter p-4 text-center text-white">
-                            <span class="ti-user icon-md"></span>
-                            <h3 class="mb-2 text-white">10766</h3>
-                            <h5 class="text-white">CLIENT RATING</h5>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section> -->
+    
         <br>
         <br>
         

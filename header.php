@@ -23,7 +23,7 @@
     <meta property="og:type" content="article" />
 
     <!--title-->
-    <title>DigiMark Digital Marketing and Agency HTML Template</title>
+    <title>The Assignment Writing</title>
 
     <!--favicon icon-->
     <link rel="icon" href="img/assignment WritingB.png" type="image/png" sizes="16x16">
