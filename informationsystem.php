@@ -78,7 +78,7 @@
                             <div class="promo-item shadow p-3 mb-5 bg-white  ">
                       
                          <a href="Information Services Management.php">  <h5 class="text-center text-primary">Information Services Management​</h5></a> 
-                           
+                           <br>
                             <h class="">    <span class="pull-left ">
                                     Number of pages:  
                                 </span>

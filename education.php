@@ -79,7 +79,7 @@
                         <div class="col-md-6 ">
                             <div class="promo-item shadow p-3 mb-5 bg-white  ">
                       
-                          <a href="Unit 1 Understanding roles.php">  <h5 class="text-center text-primary">Unit 1 Understanding roles, responsibilities and relationships in education and training Level 3</h5></a>
+                          <a href="Unit 1 Understanding roles.php">  <h5 class="text-center text-primary">Unit 1 Understanding roles, responsibilities and relationships in education </h5></a>
                            
                             <h class="">    <span class="pull-left ">
                                     Number of pages:  
@@ -123,6 +123,7 @@
                       
                            <a href="Student-Plagiarism.php"> <h5 class="text-center text-primary">
                                 Student Plagiarism And Professional Practice</h5></a>
+                                <br>
                            
                             <h class="">    <span class="pull-left ">
                                     Number of pages:  

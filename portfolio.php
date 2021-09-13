@@ -31,7 +31,7 @@
         <!--why choose us section start-->
         <h2 class="text-center text-primary heartBeat">VIDEOS PORTFOLIO</h2>
         <span class="animate-border mr-auto ml-auto mb-4"></span>
-        <section class="why-choose-us ptb-70">
+        <section class="why-choose-us ptb-60">
             <div class="container">
 
 
@@ -40,8 +40,8 @@
                         <div class="promo-item">
                             <div class="promo-img">
                                 <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe width="560" height="315" src="img/video1.mp4" frameborder="0"
-                                        allowfullscreen></iframe>
+                                    <video width="560" height="315" src="img/video1.mp4" controls
+                                         ></video>
                                 </div>
                             </div>
 
@@ -53,8 +53,8 @@
                         <div class="promo-item">
                             <div class="promo-img">
                                 <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe width="560" height="315" src="img/video2.mp4" frameborder="0"
-                                        allowfullscreen></iframe>
+                                    <video width="560" height="315" src="img/video2.mp4" controls
+                                        ></video>
                                 </div>
                             </div>
 
@@ -67,8 +67,8 @@
                         <div class="promo-item">
                             <div class="promo-img">
                                 <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe width="560" height="315" src="img/video3.mp4" frameborder="0"
-                                        allowfullscreen></iframe>
+                                    <video width="560" height="315" src="img/video3.mp4" 
+                                        controls></video>
                                 </div>
                             </div>
 
@@ -89,7 +89,7 @@
                         <div class="promo-item">
                             <div class="promo-img">
                                 <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe width="690" height="388" src="img/video4.mp4" title="" frameborder="0" allowfullscreen></iframe>
+                                    <video width="690" height="388" src="img/video4.mp4" controls></video>
                                 </div>
                             </div>
 
@@ -102,8 +102,8 @@
                         <div class="promo-item">
                             <div class="promo-img">
                                 <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe width="560" height="315" src="img/video5.mp4"
-                                        frameborder="0" allowfullscreen></iframe>
+                                    <video width="560" height="315" src="img/video5.mp4"
+                                       controls></video>
                                 </div>
                             </div>
 
@@ -116,8 +116,8 @@
                         <div class="promo-item">
                             <div class="promo-img">
                                 <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe width="560" height="315" src="img/video6.mp4"
-                                        frameborder="0" allowfullscreen></iframe>
+                                    <video width="560" height="315" src="img/video6.mp4"
+                                       controls></video>
                                 </div>
                             </div>
 
@@ -137,9 +137,10 @@
 
 
         <!-- porfolio pictures section start -->
+       
+        <section class="why-choose-us ptb-70">
         <h2 class="text-center text-primary heartBeat">IMAGES PORTFOLIO</h2>
         <span class="animate-border mr-auto ml-auto mb-4"></span>
-        <section class="why-choose-us ptb-70">
             <div class="container">
 
                 <div class="row">

@@ -352,7 +352,7 @@
 
                 </ul>
 
-                <a href="contact-us.php" class="btn secondary-solid-btn check-btn"> Contact Us</a>
+                <a href="contact-us.php" class="btn secondary-solid-btn check-btn mr-4"> Contact Us</a>
                 <!--Search-->
 
             </div>

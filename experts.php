@@ -49,10 +49,10 @@
                 <div class="col-md-4 col-lg-4">
                     <div class="staff-member my-md-3 my-lg-3 my-sm-0">
                         <div class="card text-center">
-                            <img src="img/bck7.jpg" alt="team image" width="120" class="img-fluid m-auto pt-4">
+                            <img src="img/us8.jpg" alt="team image" width="160px"  class="img-fluid m-auto pt-4">
                             <div class="card-body">
                                 <h5 class="teacher mb-0">
-                                    Michelle Meng </h5>
+                                Douglas Klutz </h5>
                                 <span>
                                     Master's from University of Singapore </span>
 
@@ -62,7 +62,7 @@
                         <div class="overlay d-flex align-items-center justify-content-center">
                             <div class="overlay-inner">
 
-                                <h5 class="mb-0 teacher text-white"> Michelle Meng </h5>
+                                <h5 class="mb-0 teacher text-white"> Douglas Klutz </h5>
                                 <span class="teacher-field text-white"> Master's from University of Singapore</span>
 
                                 <p class="teacher-see-profile">
@@ -75,10 +75,10 @@
                 <div class="col-md-4 col-lg-4">
                     <div class="staff-member my-md-3 my-lg-3 my-sm-0">
                         <div class="card text-center">
-                            <img src="img/bck8.jpg" alt="team image" width="120" class="img-fluid m-auto pt-4">
+                            <img src="img/us9.jpg" alt="team image" width="160px" class="img-fluid m-auto pt-4">
                             <div class="card-body">
                                 <h5 class="teacher mb-0">
-                                    John Perna </h5>
+                                John Beyers </h5>
                                 <span>
                                     PhD in Economics </span>
 
@@ -88,7 +88,7 @@
                         <div class="overlay d-flex align-items-center justify-content-center">
                             <div class="overlay-inner">
 
-                                <h5 class="mb-0 teacher text-white"> John Perna</h5>
+                                <h5 class="mb-0 teacher text-white"> John Beyers</h5>
                                 <span class="teacher-field text-white">
                                     PhD in Economics </span>
 
@@ -102,11 +102,11 @@
                 <div class="col-md-4 col-lg-4">
                     <div class="staff-member my-md-3 my-lg-3 my-sm-0">
                         <div class="card text-center">
-                            <img src="img/bck9.jpg" alt="team image" width="120" class="img-fluid m-auto pt-4">
+                            <img src="img/us4.jpg" alt="team image" width="180px" class="img-fluid m-auto pt-4">
                             <div class="card-body">
                                 <h5 class="teacher mb-0">
 
-                                    Daphne Lip </h5>
+                                Eli Stav </h5>
                                 <span>
 
                                     Graduated from Campion College at the University of Regina </span>
@@ -117,7 +117,7 @@
                         <div class="overlay d-flex align-items-center justify-content-center">
                             <div class="overlay-inner">
 
-                                <h5 class="mb-0 teacher text-white"> Daphne Lip</h5>
+                                <h5 class="mb-0 teacher text-white"> Eli Stav</h5>
                                 <span class="teacher-field text-white">
 
                                     Graduated from Campion College at the University of Regina </span>
@@ -136,11 +136,11 @@
                 <div class="col-md-4 col-lg-4">
                     <div class="staff-member my-md-3 my-lg-3 my-sm-0">
                         <div class="card text-center">
-                            <img src="img/bck1.jpg" alt="team image" width="120" class="img-fluid m-auto pt-4">
+                            <img src="img/us7.jpg" alt="team image" width="160" class="img-fluid m-auto pt-4">
                             <div class="card-body">
                                 <h5 class="teacher mb-0">
 
-                                    Karen Betty </h5>
+                                Rona Miles </h5>
                                 <span>
 
                                     MPA in Accounting researcher UK HIRE ME </span>
@@ -151,7 +151,7 @@
                         <div class="overlay d-flex align-items-center justify-content-center">
                             <div class="overlay-inner">
 
-                                <h5 class="mb-0 teacher text-white"> Karen Betty </h5>
+                                <h5 class="mb-0 teacher text-white">  Rona Miles </h5>
                                 <span class="teacher-field text-white">
                                     MPA in Accounting researcher UK HIRE ME </span>
 
@@ -165,11 +165,11 @@
                 <div class="col-md-4 col-lg-4">
                     <div class="staff-member my-md-3 my-lg-3 my-sm-0">
                         <div class="card text-center">
-                            <img src="img/bck2.jpg" alt="team image" width="120" class="img-fluid m-auto pt-4">
+                            <img src="img/us3.png" alt="team image" width="200" class="img-fluid m-auto pt-4">
                             <div class="card-body">
                                 <h5 class="teacher mb-0">
                                    
-Anderson  </h5>
+                                Anthony Calise  </h5>
                                 <span>
                                    
 Graduated from AUT University New Zealand HIRE ME </span>
@@ -181,7 +181,7 @@ Graduated from AUT University New Zealand HIRE ME </span>
                             <div class="overlay-inner">
 
                                 <h5 class="mb-0 teacher text-white"> 
-                                    Anderson </h5>
+                                Anthony Calise </h5>
                                 <span class="teacher-field text-white">
                                    
 Graduated from AUT University New Zealand HIRE ME </span>
@@ -196,7 +196,7 @@ Graduated from AUT University New Zealand HIRE ME </span>
                 <div class="col-md-4 col-lg-4">
                     <div class="staff-member my-md-3 my-lg-3 my-sm-0">
                         <div class="card text-center">
-                            <img src="img/bck3.jpg" alt="team image" width="120" class="img-fluid m-auto pt-4">
+                            <img src="img/us6.jpg" alt="team image" width="180" class="img-fluid m-auto pt-4">
                             <div class="card-body">
                                 <h5 class="teacher mb-0">
 
@@ -233,11 +233,11 @@ Graduated from Cape Breton University US  </span>
                 <div class="col-md-4 col-lg-4">
                     <div class="staff-member my-md-3 my-lg-3 my-sm-0">
                         <div class="card text-center">
-                            <img src="img/bck4.jpg" alt="team image" width="120" class="img-fluid m-auto pt-4">
+                            <img src="img/us2.jpg" alt="team image" width="180" class="img-fluid m-auto pt-4">
                             <div class="card-body">
                                 <h5 class="teacher mb-0">
                                    
-Grace Ling  </h5>
+                                Lisa Runner  </h5>
                                 <span>
                                   
 Pursuing Ph.D. in Accounting Singapore </span>
@@ -249,7 +249,7 @@ Pursuing Ph.D. in Accounting Singapore </span>
                             <div class="overlay-inner">
 
                                 <h5 class="mb-0 teacher text-white"> 
-                                    Grace Ling </h5>
+                                Lisa Runner </h5>
                                 <span class="teacher-field text-white">
                                     Pursuing Ph.D. in Accounting Singapore </span>
 
@@ -263,11 +263,11 @@ Pursuing Ph.D. in Accounting Singapore </span>
                 <div class="col-md-4 col-lg-4">
                     <div class="staff-member my-md-3 my-lg-3 my-sm-0">
                         <div class="card text-center">
-                            <img src="img/bck5.jpg" alt="team image" width="120" class="img-fluid m-auto pt-4">
+                            <img src="img/us5.jpg" alt="team image" width="200" class="img-fluid m-auto pt-4">
                             <div class="card-body">
-                                <h5 class="teacher mb-0">
+                                <h5 class="teacher mb-0"> 
                                    
-Alexis Jiang  </h5>
+                                John Bartlet </h5>
                                 <span>
                                    
 Masters of Ph.D. in Accounting USA HIRE ME </span>
@@ -279,7 +279,7 @@ Masters of Ph.D. in Accounting USA HIRE ME </span>
                             <div class="overlay-inner">
 
                                 <h5 class="mb-0 teacher text-white"> 
-                                    Alexis Jiang </h5>
+                                John Bartlet </h5>
                                 <span class="teacher-field text-white">
                                    
 Masters of Ph.D. in Accounting USA HIRE ME </span>
@@ -294,12 +294,12 @@ Masters of Ph.D. in Accounting USA HIRE ME </span>
                 <div class="col-md-4 col-lg-4">
                     <div class="staff-member my-md-3 my-lg-3 my-sm-0">
                         <div class="card text-center">
-                            <img src="img/bck6.jpg" alt="team image" width="120" class="img-fluid m-auto pt-4">
+                            <img src="img/us1.jpeg" alt="team image" width="160" class="img-fluid m-auto pt-4">
                             <div class="card-body">
                                 <h5 class="teacher mb-0">
 
                                    
-John Perna  </h5>
+                                Ani Abcarians  </h5>
                                 <span>
 
                                    
@@ -312,7 +312,7 @@ PhD in Economics UK  </span>
                             <div class="overlay-inner">
 
                                 <h5 class="mb-0 teacher text-white"> 
-                                    John Perna </h5>
+                                Ani Abcarians </h5>
                                 <span class="teacher-field text-white">
 
                                    

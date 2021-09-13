@@ -220,35 +220,53 @@
 
             <h3 class="text-primary ">THE ASSIGNMENT WRITING TO MEET COURSEWORK OBLIGATIONS</h3>
 
-            <p>Working on assignments can be a challenging and exciting learning experience. It allows students to
-                engage in research and learn new concepts. However, not many students can learn these new concepts
-                effectively. As such, they often have problems working on academic assignments. The appalling part is
-                that tasks can contribute up to 35% of the coursework grade. However, while assignments are essential
-                for coursework grades, not many students can meet these obligations. Some students have challenges, and
-                they require special help in working on such tasks. With adequate educational support, a student
-                can prosper and achieve their life goals. We are here to provide reliable</p>
+            <p>Dealing with tasks can be a difficult and invigorating learning experience. It permits understudies to 
+
+participate in investigate and learn new ideas. Notwithstanding, relatively few understudies can become familiar with these new ideas 
+
+viably. Accordingly, they regularly have issues chipping away at scholastic tasks. The horrifying part is 
+
+that assignments can contribute up to 35% of the coursework grade. Notwithstanding, while tasks are fundamental 
+
+for coursework grades, relatively few understudies can meet these commitments. A few understudies have difficulties, and 
+
+they need exceptional support in chipping away at such assignments. With sufficient instructive help, an understudy 
+
+can thrive and accomplish their life objectives. We are here to give solid</p>
 
             <h4 class="text-primary "> CHALLENGES IN ACADEMIC ASSIGNMENT WRITING</h4>
 
-            <p><span>Students face a host of unique challenges when it comes to working on
-                    academic assignments. The first challenge for some students is that they fail to understand the
-                    concepts taught in class. These are sometimes students with learning disabilities or international
-                    students as well. As such, these students are likely to struggle in producing assignments that can
-                    get good grades.</span></p>
+            <p><span>Understudies face a large group of special difficulties with regards to chipping away at 
 
-            <p><span>Furthermore, students also have obligations such as work, or complications
-                    such as health. These issues can affect the students’ ability to set aside time to work on school
-                    projects. Besides that, the number of scam services out there is also appalling. Some of these
-                    writing platforms are known for submitting poor work to clients.&nbsp; </span>
+scholarly tasks. The main test for certain understudies is that they neglect to comprehend the 
+
+ideas instructed in class. These are some of the time understudies with learning handicaps or worldwide 
+
+understudies also. Accordingly, these understudies are probably going to battle in delivering tasks that can 
+
+get passing marks.</span></p>
+
+            <p><span>Moreover, understudies likewise have commitments like work, or difficulties 
+
+like wellbeing. These issues can influence the understudies' capacity to save time to chip away at school 
+
+projects. Other than that, the quantity of trick benefits out there is additionally shocking. A portion of these 
+
+composing stages are known for submitting helpless work to customers.&nbsp; </span>
                 <span>The Assignment Writing&nbsp; and more.</span>
             </p>
             <h4 class=" text-primary "> THE SOLUTION</h4>
-            <p><span>The ideal solution, in this case, would be the student to invest in a
-                    reliable assignment help platform. We are here to help you work such projects and more. You fill out
-                    the simple order form and get assigned to one of our writers at the The Assignment Writing site.
-                    More so, before settling on a particular academic service, we recommend that you evaluate the site
-                    for the best academic outcomes. A good assignment writing service is professional and can respond to
-                    your queries fast.</span></p>
+            <p><span>The best arrangement, for this situation, would be the understudy to put resources into a 
+
+dependable task help stage. We are here to assist you with working such tasks and that's just the beginning. You round out 
+
+the basic request frame and get alloted to one of our essayists at The Assignment Writing site. 
+
+All the more in this way, prior to choosing a specific scholastic help, we suggest that you assess the site 
+
+for the best scholarly results. A decent task composing administration is proficient and can react to 
+
+your questions quick.</span></p>
 
 
         </div>
@@ -284,13 +302,14 @@
                         <a href="#">
                             <div class="single-promo-2 single-promo-hover rounded text-center white-bg p-5 h-100">
                                 <div class="circle-icon">
-                                    <span> <img src="img/active.png" width="80" height="100" alt=""></span>
+                                    <span> <img src= "img/gu.png" width="80" height="100" alt=""></span>
                                 </div>
-                                <h5 class="text-primary">24 X 7 Live Help+</h5>
-                                <p>We work 24x7 for your convenience. Our customer support executives are available
-                                    round the clock in case you need any professional assistance. Feel free to contact
-                                    our assignment
-                                    writing services any time via phone, email or live chat.</p>
+                                <h5 class="text-primary">Best Price Guarantee</h5>
+                                <p>You get premium service at the best market price. Our best price guarantee ensures
+                                    that the features we offer cannot be matched by any of the competitors, in case they
+                                    do
+                                    - “We will beat the price”. Thus, for an effective and cheap assignment help, always
+                                    count on us.</p>
                             </div>
                         </a>
                     </div>
@@ -338,7 +357,7 @@
                                 <p>To avoid any plagiarism, we check our completed papers three times — after writing,
                                     editing and proofreading — using reliable plagiarism detection software, .
                                     plagiarism.
-                                    We only provide customized 100 percent original papers</p>
+                                    We only provide customized 100 percent original papers.</p>
                             </div>
                         </a>
                     </div>
@@ -346,15 +365,14 @@
                         <a href="#">
                             <div class="single-promo-2 single-promo-hover rounded text-center white-bg p-5 h-100">
                                 <div class="circle-icon">
-                                    <span class=""> <img src="img/gu.png" width="100"
+                                    <span class=""> <img src="img/active.png" width="100"
                                             height="100" alt=""></span>
                                 </div>
-                                <h5 class="text-primary">Best Price Guarantee</h5>
-                                <p>You get premium service at the best market price. Our best price guarantee ensures
-                                    that the features we offer cannot be matched by any of the competitors, in case they
-                                    do
-                                    - “We will beat the price”. Thus, for an effective and cheap assignment help, always
-                                    count on us.</p>
+                                <h5 class="text-primary">24 X 7 Live Help+</h5>
+                                <p>We work 24x7 for your convenience. Our customer support executives are available
+                                    round the clock in case you need any professional assistance. Feel free to contact
+                                    our assignment
+                                    writing services any time via phone, email or live chat.</p>
                             </div>
                         </a>
                     </div>
@@ -460,7 +478,18 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="services-single text-center p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm white-bg rounded">
-                            <span><img src="img/uk.png" alt=""></span>
+                            <span><img src="img/icon-benefits-3-1.png" class="py-3 img-fluid" alt=""></span>
+                            <h5>Writers testing</h5>
+                            <p class="mb-0">We rigorously test our writers and check their qualifications and experience
+                                before engaging them and periodically review their work to ensure the highest standards
+                                are maintained.</p>
+
+                        </div>
+                    </div>
+                   
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="services-single text-center p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm white-bg rounded">
+                            <span><img src= "img/uk.png"  class="py-3 img-fluid" alt=""></span>
                             <h5>UK Team</h5>
                             <p class="mb-0">We've been called the UK's premier essay writing service for a good reason:
                                 our dedication to providing students with an affordable, quality service</p>
@@ -469,29 +498,20 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="services-single text-center p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm white-bg rounded">
-                            <span><img src="img/icon-benefits-2-1.png" alt=""> </span>
-                            <h5>Guarantees</h5>
-                            <p class="mb-0">Our quality guarantees offer you peace of mind about the work you receive
-                                from us and assurance that your personal and payment details are safe and secure.</p>
-
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="services-single text-center p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm white-bg rounded">
-                            <span><img src="img/icon-benefits-3-1.png" alt=""></span>
-                            <h5>Writers testing</h5>
-                            <p class="mb-0">We rigorously test our writers and check their qualifications and experience
-                                before engaging them and periodically review their work to ensure the highest standards
-                                are maintained.</p>
-
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="services-single text-center p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm white-bg rounded">
-                            <span><img src="img/icon-benefits-4-1.png" alt=""></span>
+                            <span><img src="img/icon-benefits-4-1.png"  class="py-3 img-fluid" alt=""></span>
                             <h5>Care Centre</h5>
                             <p class="mb-0">We have a dedicated team of customer representatives available 24/7 to any
                                 your questions about any aspect of our products and services.</p>
+                                
+
+                        </div>
+                    </div>
+                     <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="services-single text-center p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm white-bg rounded">
+                            <span><img src="img/icon-benefits-2-1.png"  class="py-3 img-fluid" alt=""> </span>
+                            <h5>Guarantees</h5>
+                            <p class="mb-0">Our quality guarantees offer you peace of mind about the work you receive
+                                from us and assurance that your personal and payment details are safe and secure.</p>
 
                         </div>
                     </div>
@@ -560,54 +580,71 @@
         <br>
         <br>
         <br>
+        <section class="services-section ptb-100 gray-light-bg">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-8">
+                        <div class="section-heading text-center mb-5">
 
-        <!-- Assignment help section -->
-        <h2 class="text-center text-primary animate__animated animate__heartBeat">ASSIGNMENT HELP SERVICES</h2>
-        <span class="animate-border mr-auto ml-auto mb-4"></span>
-        <br>
-        <div class="container bg-info">
+                            <h2 class="text-primary animate__animated animate__heartBeat">ASSIGNMENT HELP SERVICES</h2>
+                            <span class="animate-border mr-auto ml-auto mb-4"></span>
 
-            <div class="row">
-                <div class="col-md-3 text-center">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="services-single text-center p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm white-bg rounded">
+                            <span><img src="img/ser3.png" alt=""class=" img-fluid"  width="200px"></span>
+                            <h5>Dissertation Writing Help</h5>
+                            <p class="mb-0">We offer distinctive service in detailed research for your dissertation on any
+                        topic from any subject. Our experts help you select appropriate methodology to research ensuring
+                        valid and reliable results..</p>
+                                
 
-                    <span><img src="img/ser1.png" alt=""><p class="call-out-title">Custom Assignment Help</p></span>
-                    <p class="text-white">We provide most reliable and proficient service to help you work on those
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="services-single text-center p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm white-bg rounded">
+                            <span ><img src="img/ser1.png" class=" img-fluid" alt="" width="200px"></span>
+                            <h5>Custom Assignment Help</h5>
+                            <p class="mb-0">We provide most reliable and proficient service to help you work on those
                         intricate assignments. Our Ph.D. experts carry a distinctive mode of expression assisting
                         students to
                         write flawless papers.</p>
 
-                </div>
-                <div class="col-md-3">
-                    <span><img src="img/ser2.png" alt=""><p class="call-out-title">Custom Essay Writing Help</p></span>
-                    <p class="text-white">We offer premium essay writing help in a customised manner. Our Native essay
+                        </div>
+                    </div>
+                   
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="services-single text-center p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm white-bg rounded">
+                            <span><img src="img/ser2.png" alt=""  class=" img-fluid" width="200px"></span>
+                            <h5>Custom Essay Writing Help</h5>
+                            <p class="mb-0">We offer premium essay writing help in a customised manner. Our Native essay
                         tutors help you meet university standards in terms of writing and structuring of academic essays
                         and
-                        gain academic excellence.</p>
+                        gain academic excellence</p>
 
-
-                </div>
-                <div class="col-md-3">
-                    <span><img src="img/ser3.png" alt=""><p class="call-out-title">Dissertation Writing Help</p></span>
-                    <p class="text-white">We offer distinctive service in detailed research for your dissertation on any
-                        topic from any subject. Our experts help you select appropriate methodology to research ensuring
-                        valid and reliable results.</p>
-
-
-                </div>
-                <div class="col-md-3">
-                    <span><img src="img/ser4.png" alt=""><p class="call-out-title">Custom Coursework Help</p></span>
-                    <p class="text-white">We provide dependable coursework help to meet your writing needs in a
+                        </div>
+                    </div>
+                  
+                     <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="services-single text-center p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm white-bg rounded">
+                            <span ><img src="img/ser4.png" alt=""class=" img-fluid"  width="200px"> </span>
+                            <h5>Custom Coursework Help</h5>
+                            <p class="mb-0">We provide dependable coursework help to meet your writing needs in a
                         customized manner. Whether it is homework help, case study or online exam help we have authentic
                         writers
                         ensuring excellence.</p>
 
+                        </div>
+                    </div>
+
 
                 </div>
             </div>
-        </div>
-
-
-        <!-- Assignment help section end-->
+        </section>
+      
         <br>
         <br> <!-- Student Testinomial -->
         <h2 class="text-primary text-center animate__animated animate__heartBeat">STUDENT TESTIMONIALS</h2>
@@ -675,6 +712,19 @@
 
                 </div>
                 <div class="col-md-3">
+                    <h5>Personal Writing</h5>
+                    <p> <i aria-hidden="true" class="fas fa-check"></i> Resume Writing<br> <i aria-hidden="true"
+                            class="fas fa-check"></i> Cover Letters<br> <i aria-hidden="true" class="fas fa-check"></i>
+                        Linkedin Profile Writing<br> <i aria-hidden="true" class="fas fa-check"></i> Linkedin Profile
+                        Optimization<br><i aria-hidden="true" class="fas fa-check"></i> Online Digital Resume<br> <i
+                            aria-hidden="true" class="fas fa-check"></i> Personal/Job statement<br> <i
+                            aria-hidden="true" class="fas fa-check"></i> Professional Biography
+                        <br> <i aria-hidden="true" class="fas fa-check"></i> Follow up letter<br> <i aria-hidden="true"
+                            class="fas fa-check"></i> Thankyou letter
+                    </p>
+
+                </div>
+                <div class="col-md-3">
                     <h5>Web Content Writing</h5>
                     <p> <i aria-hidden="true" class="fas fa-check"></i> Web Copy Writing <br> <i aria-hidden="true"
                             class="fas fa-check"></i> Product Description <br> <i aria-hidden="true"
@@ -694,19 +744,7 @@
                     </p>
 
                 </div>
-                <div class="col-md-3">
-                    <h5>Personal Writing</h5>
-                    <p> <i aria-hidden="true" class="fas fa-check"></i> Resume Writing<br> <i aria-hidden="true"
-                            class="fas fa-check"></i> Cover Letters<br> <i aria-hidden="true" class="fas fa-check"></i>
-                        Linkedin Profile Writing<br> <i aria-hidden="true" class="fas fa-check"></i> Linkedin Profile
-                        Optimization<br><i aria-hidden="true" class="fas fa-check"></i> Online Digital Resume<br> <i
-                            aria-hidden="true" class="fas fa-check"></i> Personal/Job statement<br> <i
-                            aria-hidden="true" class="fas fa-check"></i> Professional Biography
-                        <br> <i aria-hidden="true" class="fas fa-check"></i> Follow up letter<br> <i aria-hidden="true"
-                            class="fas fa-check"></i> Thankyou letter
-                    </p>
-
-                </div>
+               
             </div>
             <div class="row mt-4">
 

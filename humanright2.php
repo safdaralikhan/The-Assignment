@@ -124,6 +124,7 @@
                       
                            <a href="Report on An analysis of.php"> <h5 class="text-center text-primary">
                                 Modern Movement Democracy <br> Effect Architecture Sample​</h5></a>
+                                <br>
                            
                             <h class="">    <span class="pull-left ">
                                     Number of pages:  

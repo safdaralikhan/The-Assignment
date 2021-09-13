@@ -31,22 +31,31 @@
 
         <p>
 
-            Here at Theassignmentwriting.com we will likely assistance understudies with their composing ventures.
-            Regardless of whether you are an undergrad, Master’s or PhD understudy, our faultless group of master
-            scholastic essayists can expertly create your paper regardless of what field or forte you require. After
-            some time we have amassed an exceptional and expert group of scholars and editors who are accessible and
-            glad to help you nonstop. It doesn’t make a difference what time zone you live in or whether it’s day or
-            night.
+        Here at Theassignmentwriting.com we will probably help understudies with their creating adventures. 
 
-            Our journalists can help you with any or the entirety of the proposition or exposition composing steps
-            or with an article or paper. Scholarly life unquestionably has its difficulties, including intense
-            cutoff times, bunches of schoolwork and composing ventures, just as restricted time to destroy them. The
-            composed pieces we make will flabbergast both you and your educators.</p>
+Whether or not you are a student, Master's or PhD understudy, our perfect gathering of expert 
+
+educational writers can expertly make your paper paying little mind to what field or specialty you require. After 
+
+some time we have amassed an excellent and master gathering of researchers and editors who are open and 
+
+happy to help you relentless. It doesn't have an effect what time region you live in or regardless of whether it's day or 
+
+night. 
+
+Our columnists can assist you with any or the whole of the suggestion or piece making steps 
+
+or on the other hand with an article or paper. Insightful life certainly has its troubles, including extreme 
+
+cutoff times, lots of homework and creating adventures, similarly as limited chance to annihilate them. The 
+
+created pieces we cause will to astound both you and your instructors.</p>
 
         <h4 class="text-primary"> What Do We Do for Students?</h4>
 
-        <p>At Assignment Help, a team of highly experienced writers is standing by you to help in different ways,
-            which include, but not limited to the following:</p>
+        <p>At Assignment Help, a group of profoundly experienced journalists is remaining by you to help in an unexpected way, 
+
+which incorporate, yet not restricted to the accompanying:</p>
 
         <ul>
             <li>Be it a rush order or long-range order; we know how to stick to the deadline. On-time delivery has
@@ -58,17 +67,25 @@
         </ul>
         </p>
         <h4 class=" text-primary"> Is this Cheating/Fraud?</h4>
-        <p>One word for all your doubts is, No! We are here to provide you with writing assistance along with
-            guidance; our services are 100% genuine. A few underhand services are present
-            in the industry which makes a student question about the legitimacy of our services. Indeed, we advise
-            you to think before you pay for any assignment writing service.</p>
-        <p>Getting your work done from the writers at The Assignment Writing definitely doesn’t mean that you are
-            cheating as we know how important it is for you to have a plagiarism-free
-            content. Our experts will write your assignment from scratch and will also provide you with a quality
-            assurance report so that you can verify that our work is not fraudulent.
-            You may even review our content over various academic plagiarism checkers, such as Grammarly, Turnitin,
-            etc.</p>
-        <p>It’s time to place your order with confidence as there is nothing unethical in taking our services!</p>
+        <p>Single word for every one of your questions is, No! We are here to give you composing help alongside 
+
+direction; our administrations are 100% authentic. A couple of underhand administrations are available 
+
+in the business which makes an understudy question about the authenticity of our administrations. Without a doubt, we exhort 
+
+you to think before you pay for any task composing administration.</p>
+        <p>Finishing your work from the scholars at The Assignment Writing certainly doesn't imply that you are 
+
+cheating as we probably are aware how significant it is for you to have a literary theft free 
+
+content. Our specialists will compose your task without any preparation and will likewise furnish you with a quality 
+
+confirmation report so you can check that our work isn't false. 
+
+You might even survey our substance over different scholarly copyright infringement checkers, like Grammarly, Turnitin, 
+
+and so forth</p>
+        <p>It's an ideal opportunity to submit your request with certainty as there isn't anything unscrupulous in taking our administrations!</p>
 
 
     </div>
@@ -81,10 +98,10 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="promo-item">
-                        <div class="promo-img">
-                            <img src="img/expetw.png" alt="services" width="60">
+                        <div class="promo-img text-center">
+                            <img src="img/expetw.png" alt="services" class="img-fluid" width="60">
                         </div>
-                        <h5 class="text-primary">Our Expert Writers</h5>
+                        <h5 class="text-primary text-center">Our Expert Writers</h5>
                         <p>Our professional team consists of highly skilled and professional assignment writers who
                             have relevant subject degrees in hand with the strong passion for academic writing.
 
@@ -99,10 +116,10 @@
                 </div>
                 <div class="col-md-4">
                     <div class="promo-item">
-                        <div class="promo-img">
-                            <img src="img/cut.png" alt="services" width="60">
+                        <div class="promo-img text-center">
+                            <img src="img/cut.png" alt="services" class="img-fluid"  width="60">
                         </div>
-                        <h5 class="text-primary">24/7 Customer Support</h5>
+                        <h5 class="text-primary text-center">24/7 Customer Support</h5>
                         <p>Students who approach us may belong to different time zones, so our 24*7 support team is
                             readily available to serve them as per their convenience. You can reach us through a
                             phone call, online chat, or email and our talented student support executives will help
@@ -118,10 +135,10 @@
                 </div>
                 <div class="col-md-4">
                     <div class="promo-item">
-                        <div class="promo-img">
-                            <img src="img/mis.png" alt="services" width="60">
+                        <div class="promo-img text-center">
+                            <img src="img/mis.png" alt="services" class="img-fluid " width="60">
                         </div>
-                        <h5 class="text-primary">Our Mission</h5>
+                        <h5 class="text-primary text-center ">Our Mission</h5>
                         <p>Our mission is to offer flexible services where students can get whatever they wish for
                             at any time. We don’t just work to tune into the booming academic writing industry; our
                             aim is to provide the best online writing assistance to the stressed-out scholars.At The

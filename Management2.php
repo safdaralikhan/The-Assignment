@@ -121,6 +121,7 @@
                       
                           <a href="Total Quality Management.php">  <h5 class="text-center text-primary">
                                 Total Quality Management</h5></a>
+                                <br>
                            
                             <h class="">    <span class="pull-left ">
                                     Number of pages:  
