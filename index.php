@@ -140,26 +140,26 @@
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner  text-center">
                 <div class="carousel-item active ">
-                    <img class=" " src="img/ASSIGMENT WRITING POST-02.jpg" width="1200px" height="800"
+                    <img class="img-fluid" src="img/ASSIGMENT WRITING POST-02.jpg" width="1200px" height="800"
                         alt="First slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="" src="img/assignment help 2-01.jpg" width="1200px" height="800" alt="Second slide">
+                    <img class="img-fluid" src="img/assignment help 2-01.jpg" width="1200px" height="800" alt="Second slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d" src="img/3-01.jpg" width="1200px" height="800" alt="Third slide">
+                    <img class="img-fluid" src="img/3-01.jpg" width="1200px" height="800" alt="Third slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="" src="img/4-01.jpg" width="1200px" height="800" alt="fourth slide">
+                    <img class="img-fluid" src="img/4-01.jpg" width="1200px" height="800" alt="fourth slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="" src="img/5-02.jpg" width="1200px" height="800" alt="fifth slide">
+                    <img class="img-fluid" src="img/5-02.jpg" width="1200px" height="800" alt="fifth slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="" src="img/6-01.jpg" width="1200px" height="800" alt="six slide">
+                    <img class="img-fluid" src="img/6-01.jpg" width="1200px" height="800" alt="six slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="" src="img/7-01.jpg" width="1200px" height="800" alt="seven slide">
+                    <img class="img-fluid" src="img/7-01.jpg" width="1200px" height="800" alt="seven slide">
                 </div>
             </div>
             <a class="carousel-control-prev " href="#carouselExampleControls" role="button" data-slide="prev">
@@ -246,7 +246,7 @@ your questions quick.</span></p>
                 <span class="animate-border mr-auto ml-auto mb-4"></span>
                 <div class="row">
                     <div class="col-md-4 col-lg-4 p-4">
-                        <a href="#">
+                        
                             <div class="single-promo-2 single-promo-hover rounded text-center white-bg p-5 h-100">
                                 <div class="circle-icon">
                                     <span class=""> <img src="img/delivery-icon.png" width="100" height="100"
@@ -259,10 +259,10 @@ your questions quick.</span></p>
                                     are submitted prior to the deadline so that you can proofread your paper before
                                     handing it over to your tutor.</p>
                             </div>
-                        </a>
+                      
                     </div>
                     <div class="col-md-4 col-lg-4 p-4">
-                        <a href="#">
+                     
                             <div class="single-promo-2 single-promo-hover rounded text-center white-bg p-5 h-100">
                                 <div class="circle-icon">
                                     <span> <img src= "img/gu.png" width="80" height="100" alt=""></span>
@@ -274,10 +274,10 @@ your questions quick.</span></p>
                                     - “We will beat the price”. Thus, for an effective and cheap assignment help, always
                                     count on us.</p>
                             </div>
-                        </a>
+                      
                     </div>
                     <div class="col-md-4 col-lg-4  p-4">
-                        <a href="#">
+                       
                             <div class="single-promo-2 single-promo-hover rounded text-center white-bg p-5 h-100">
                                 <div class="circle-icon">
                                     <span> <img src="img/ex3.jpg" width="150" height="100"
@@ -290,13 +290,13 @@ your questions quick.</span></p>
                                     across the world. We have writers for each and every subject and always help, always
                                     get in touch with us.</p>
                             </div>
-                        </a>
+                     
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="col-md-4 col-lg-4  p-4">
-                        <a href="#">
+                     
                             <div class="single-promo-2 single-promo-hover rounded text-center white-bg p-5 h-100">
                                 <div class="circle-icon">
                                     <span> <img src="img/subject.png" width="100" height="100" alt=""></span>
@@ -308,10 +308,10 @@ your questions quick.</span></p>
                                     on any subject at any level. We have experts for Law, Nursing, Management,
                                     Accounting, Marketing,</p>
                             </div>
-                        </a>
+                     
                     </div>
                     <div class="col-md-4 col-lg-4  p-4">
-                        <a href="#">
+                       
                             <div class="single-promo-2 single-promo-hover rounded text-center white-bg p-5 h-100">
                                 <div class="circle-icon">
                                     <span class=""> <img src="img/plag.png" width="100" height="100" alt=""></span>
@@ -322,10 +322,10 @@ your questions quick.</span></p>
                                     plagiarism.
                                     We only provide customized 100 percent original papers.</p>
                             </div>
-                        </a>
+                      
                     </div>
                     <div class="col-md-4 col-lg-4  p-4">
-                        <a href="#">
+                       
                             <div class="single-promo-2 single-promo-hover rounded text-center white-bg p-5 h-100">
                                 <div class="circle-icon">
                                     <span class=""> <img src="img/active.png" width="100"
@@ -337,7 +337,7 @@ your questions quick.</span></p>
                                     our assignment
                                     writing services any time via phone, email or live chat.</p>
                             </div>
-                        </a>
+                       
                     </div>
                 </div>
             </div>
