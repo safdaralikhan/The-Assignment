@@ -15,7 +15,7 @@
     <meta property="og:url" content="" />
     <meta property="og:type" content="article" />
     <title>The Skilled Writing</title>
-    <link rel="icon" href="img/Skiled.png"  sizes="32x32">
+    <link rel="icon" href="img/android-chrome-512x512.png"  sizes="16x16">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700%7COpen+Sans:400,600&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/magnific-popup.css">
