@@ -1,3 +1,93 @@
+.b1{
+    background-image: url("../img/bg\ img.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.b11{
+    color: black;
+}
+.b12{
+    background-image: url("../img/book3.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.b13{
+    background-image: url("../img/about-1.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.b14{
+    background-image: url("../img/Assignment-Writing.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.b15{
+    background-image: url("../img/writing-of-research-paper.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.b16{
+    background-image: url("../img/contact.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.b17{
+    background-image: url("../img/header-bg-5.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.b18{
+    background-image: url("../img/expt.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.b19{
+    background-image: url("../img/faq.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.b20{
+    background-image: url("../img/portfolioo.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.b21{
+    background-image: url("../img/client-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.b22{
+    background-image: url("../img/revv.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.b23{
+    background-image: url("../img/ctg-bg-2.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
 .opacity{
     
     

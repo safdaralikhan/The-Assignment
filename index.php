@@ -8,21 +8,21 @@
 
     <!--body content wrap start-->
     <div class="main">
-    <section class="ptb-70 " style="background: url(img/bg\ img.jpg)no-repeat center center / cover" >
+    <section class="ptb-70 b1" >
 
         <!--hero section start-->
-        <div class="row">
+        <div class="row ">
             <div class="col-md-12">
 
             </div>
-            
+
         </div>
             <div class="container "  >
                 <div class="row align-items-center">
                     <div class="col-md-12 col-lg-5 bgcolor" >
                         <div class="hero-slider-content text-white pt-5">
 
-                            <h1 class="text-white  animate__animated animate__wobble ">The <span style="color: black;" class=""> Assignment</span> Writing</h1>
+                            <h1 class="text-white  animate__animated animate__wobble ">The <span class="b11"> Assignment</span> Writing</h1>
                             <strong class="lead">Quality Assignment Help By Expert Writers </strong>
                             <br>
                             <div class="elementor-widget-container">
@@ -68,7 +68,7 @@
                                     <i class="elementor-star-full">★</i>
                                     <i class="elementor-star-full">★</i>
                                     <i class="elementor-star-ful">★  </i>
-            
+
                                 </div>
                             </div>
 
@@ -80,18 +80,18 @@
                             <img src="img/book2.jpg"  class="img-fluid custom-width opacity shadow p-3 mb-5" alt="hero" />
                         </div>
                     </div>
-                    
-                    
+
+
                 </div>
             </div>
         </section>
         <!--hero section end-->
-    
+
         <br>
         <br>
-        
-        
-        <!-- --<secind part--> 
+
+
+        <!-- --<secind part-->
              <div class="footer-top gradient-bg">
             <div class="container">
                 <div class="row justify-content-center">
@@ -129,7 +129,7 @@
 
             </div>
         </div>
-        <!-- 
+        <!--
 --<secind part end-->
         <br>
         <br>
@@ -178,56 +178,56 @@
         <br>
         <br>
         <br>
-        
+
         <div class="container">
 
             <h3 class="text-primary ">THE ASSIGNMENT WRITING TO MEET COURSEWORK OBLIGATIONS</h3>
 
-            <p>Dealing with tasks can be a difficult and invigorating learning experience. It permits understudies to 
+            <p>Dealing with tasks can be a difficult and invigorating learning experience. It permits understudies to
 
-participate in investigate and learn new ideas. Notwithstanding, relatively few understudies can become familiar with these new ideas 
+participate in investigate and learn new ideas. Notwithstanding, relatively few understudies can become familiar with these new ideas
 
-viably. Accordingly, they regularly have issues chipping away at scholastic tasks. The horrifying part is 
+viably. Accordingly, they regularly have issues chipping away at scholastic tasks. The horrifying part is
 
-that assignments can contribute up to 35% of the coursework grade. Notwithstanding, while tasks are fundamental 
+that assignments can contribute up to 35% of the coursework grade. Notwithstanding, while tasks are fundamental
 
-for coursework grades, relatively few understudies can meet these commitments. A few understudies have difficulties, and 
+for coursework grades, relatively few understudies can meet these commitments. A few understudies have difficulties, and
 
-they need exceptional support in chipping away at such assignments. With sufficient instructive help, an understudy 
+they need exceptional support in chipping away at such assignments. With sufficient instructive help, an understudy
 
 can thrive and accomplish their life objectives. We are here to give solid</p>
 
             <h4 class="text-primary "> CHALLENGES IN ACADEMIC ASSIGNMENT WRITING</h4>
 
-            <p><span>Understudies face a large group of special difficulties with regards to chipping away at 
+            <p><span>Understudies face a large group of special difficulties with regards to chipping away at
 
-scholarly tasks. The main test for certain understudies is that they neglect to comprehend the 
+scholarly tasks. The main test for certain understudies is that they neglect to comprehend the
 
-ideas instructed in class. These are some of the time understudies with learning handicaps or worldwide 
+ideas instructed in class. These are some of the time understudies with learning handicaps or worldwide
 
-understudies also. Accordingly, these understudies are probably going to battle in delivering tasks that can 
+understudies also. Accordingly, these understudies are probably going to battle in delivering tasks that can
 
 get passing marks.</span></p>
 
-            <p><span>Moreover, understudies likewise have commitments like work, or difficulties 
+            <p><span>Moreover, understudies likewise have commitments like work, or difficulties
 
-like wellbeing. These issues can influence the understudies' capacity to save time to chip away at school 
+like wellbeing. These issues can influence the understudies' capacity to save time to chip away at school
 
-projects. Other than that, the quantity of trick benefits out there is additionally shocking. A portion of these 
+projects. Other than that, the quantity of trick benefits out there is additionally shocking. A portion of these
 
 composing stages are known for submitting helpless work to customers.&nbsp; </span>
                 <span>The Assignment Writing&nbsp; and more.</span>
             </p>
             <h4 class=" text-primary "> THE SOLUTION</h4>
-            <p><span>The best arrangement, for this situation, would be the understudy to put resources into a 
+            <p><span>The best arrangement, for this situation, would be the understudy to put resources into a
 
-dependable task help stage. We are here to assist you with working such tasks and that's just the beginning. You round out 
+dependable task help stage. We are here to assist you with working such tasks and that's just the beginning. You round out
 
-the basic request frame and get alloted to one of our essayists at The Assignment Writing site. 
+the basic request frame and get alloted to one of our essayists at The Assignment Writing site.
 
-All the more in this way, prior to choosing a specific scholastic help, we suggest that you assess the site 
+All the more in this way, prior to choosing a specific scholastic help, we suggest that you assess the site
 
-for the best scholarly results. A decent task composing administration is proficient and can react to 
+for the best scholarly results. A decent task composing administration is proficient and can react to
 
 your questions quick.</span></p>
 
@@ -246,7 +246,7 @@ your questions quick.</span></p>
                 <span class="animate-border mr-auto ml-auto mb-4"></span>
                 <div class="row">
                     <div class="col-md-4 col-lg-4 p-4">
-                        
+
                             <div class="single-promo-2 single-promo-hover rounded text-center white-bg p-5 h-100">
                                 <div class="circle-icon">
                                     <span class=""> <img src="img/delivery-icon.png" width="100" height="100"
@@ -259,10 +259,10 @@ your questions quick.</span></p>
                                     are submitted prior to the deadline so that you can proofread your paper before
                                     handing it over to your tutor.</p>
                             </div>
-                      
+
                     </div>
                     <div class="col-md-4 col-lg-4 p-4">
-                     
+
                             <div class="single-promo-2 single-promo-hover rounded text-center white-bg p-5 h-100">
                                 <div class="circle-icon">
                                     <span> <img src= "img/gu.png" width="80" height="100" alt=""></span>
@@ -274,10 +274,10 @@ your questions quick.</span></p>
                                     - “We will beat the price”. Thus, for an effective and cheap assignment help, always
                                     count on us.</p>
                             </div>
-                      
+
                     </div>
                     <div class="col-md-4 col-lg-4  p-4">
-                       
+
                             <div class="single-promo-2 single-promo-hover rounded text-center white-bg p-5 h-100">
                                 <div class="circle-icon">
                                     <span> <img src="img/ex3.jpg" width="150" height="100"
@@ -290,13 +290,13 @@ your questions quick.</span></p>
                                     across the world. We have writers for each and every subject and always help, always
                                     get in touch with us.</p>
                             </div>
-                     
+
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="col-md-4 col-lg-4  p-4">
-                     
+
                             <div class="single-promo-2 single-promo-hover rounded text-center white-bg p-5 h-100">
                                 <div class="circle-icon">
                                     <span> <img src="img/subject.png" width="100" height="100" alt=""></span>
@@ -308,10 +308,10 @@ your questions quick.</span></p>
                                     on any subject at any level. We have experts for Law, Nursing, Management,
                                     Accounting, Marketing,</p>
                             </div>
-                     
+
                     </div>
                     <div class="col-md-4 col-lg-4  p-4">
-                       
+
                             <div class="single-promo-2 single-promo-hover rounded text-center white-bg p-5 h-100">
                                 <div class="circle-icon">
                                     <span class=""> <img src="img/plag.png" width="100" height="100" alt=""></span>
@@ -322,10 +322,10 @@ your questions quick.</span></p>
                                     plagiarism.
                                     We only provide customized 100 percent original papers.</p>
                             </div>
-                      
+
                     </div>
                     <div class="col-md-4 col-lg-4  p-4">
-                       
+
                             <div class="single-promo-2 single-promo-hover rounded text-center white-bg p-5 h-100">
                                 <div class="circle-icon">
                                     <span class=""> <img src="img/active.png" width="100"
@@ -337,62 +337,19 @@ your questions quick.</span></p>
                                     our assignment
                                     writing services any time via phone, email or live chat.</p>
                             </div>
-                       
+
                     </div>
                 </div>
             </div>
         </section>
-        <!--features of our services end-->
 
-
-        <!--call to action progressbar start-->
-        <!-- <h3 class="text-center text-primary animate__animated animate__heartBeat">THE NUMBERS SAY IT ALL</h3>
-        <span class="animate-border mr-auto ml-auto mb-4"></span>
-        <section class="call-to-action ptb-90"
-            style="background: url('img/study bg.png ')no-repeat center center / cover">
-
-            <div class="container">
-
-                <div class="row">
-                    <div class="col-md-4 col-sm-6">
-                        <div class="circle-box">
-                            <div class="chart" data-percent="70"><span>6583</span></div>
-                        </div>
-                        <div class="progress-info text-center mt-3">
-                            < <h4 class="color-secondary">6583</h4> -->
-                            <!-- <h5 class="text-white">DELIVERED ORDERS</h5>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="circle-box">
-                            <div class="chart" data-percent="75"><span>2000</span></div>
-                        </div>
-                        <div class="progress-info text-center mt-3">
-                            <!- <strong class="color-secondary">Our Services</strong> -->
-                            <!-- <h5 class="text-white">AUTHORS</h5>
-                        </div>
-                    </div>
-                    <div class="col-md-4 col-sm-6">
-                        <div class="circle-box">
-                            <div class="chart" data-percent="80"><span>4.9/5</span></div>
-                        </div>
-                        <div class="progress-info text-center mt-3"> -->
-                            <!-- <strong class="color-secondary">Our Services</strong> -->
-                            <!-- <h5 class="text-white">CLIENT RATING</h5>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </section> >  -->
-        <!--call to action progressbar end-->
         <section class="call-to-action ptb-90">
             <div class="container-fluid gradient-bg">
                 <div class="row justify-content-center">
                     <div class="col-md-8 col-lg-8">
                         <div class="call-to-action-content text-white text-center mb-4">
                             <h2 class="text-white mb-1 animate__animated animate__heartBeat">It’s in the numbers</h2>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -449,7 +406,7 @@ your questions quick.</span></p>
 
                         </div>
                     </div>
-                   
+
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="services-single text-center p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm white-bg rounded">
                             <span><img src= "img/uk.png"  class="py-3 img-fluid" alt=""></span>
@@ -465,7 +422,7 @@ your questions quick.</span></p>
                             <h5>Care Centre</h5>
                             <p class="mb-0">We have a dedicated team of customer representatives available 24/7 to any
                                 your questions about any aspect of our products and services.</p>
-                                
+
 
                         </div>
                     </div>
@@ -563,7 +520,7 @@ your questions quick.</span></p>
                             <p class="mb-0">We offer distinctive service in detailed research for your dissertation on any
                         topic from any subject. Our experts help you select appropriate methodology to research ensuring
                         valid and reliable results..</p>
-                                
+
 
                         </div>
                     </div>
@@ -578,7 +535,7 @@ your questions quick.</span></p>
 
                         </div>
                     </div>
-                   
+
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="services-single text-center p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm white-bg rounded">
                             <span><img src="img/ser2.png" alt=""  class=" img-fluid" width="200px"></span>
@@ -590,7 +547,7 @@ your questions quick.</span></p>
 
                         </div>
                     </div>
-                  
+
                      <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="services-single text-center p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm white-bg rounded">
                             <span ><img src="img/ser4.png" alt=""class=" img-fluid"  width="200px"> </span>
@@ -607,7 +564,7 @@ your questions quick.</span></p>
                 </div>
             </div>
         </section>
-      
+
         <br>
         <br> <!-- Student Testinomial -->
         <h2 class="text-primary text-center animate__animated animate__heartBeat">STUDENT TESTIMONIALS</h2>
@@ -707,7 +664,7 @@ your questions quick.</span></p>
                     </p>
 
                 </div>
-               
+
             </div>
             <div class="row mt-4">
 
@@ -753,11 +710,11 @@ your questions quick.</span></p>
 
 
 
-        
 
 
 
-  
+
+
 
 
 
