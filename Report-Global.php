@@ -5,8 +5,7 @@
     <div class="main">
 
         <!--hero section start-->
-        <section class="hero-section ptb-100 gradient-overlay"
-            style="background: url('img/book3.jpg')no-repeat center center / cover">
+        <section class="hero-section ptb-100 gradient-overlay b12">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-md-6 col-lg-12">
@@ -306,7 +305,7 @@
                     </li>
                     <li>Buckley, R., 2011. Tourism and environment. Annual Review of Environment and Resources. 36.
                         pp.397-416.
-    
+
                     </li>
                     <li>Cochrane, J. and Tapper, R., 2006. Tourism’s contribution to World Heritage Site management.
                         Managing world heritage sites. pp.97-109.
@@ -341,7 +340,7 @@
                     <li>Cochrane, J. and Tapper, R., 2006. Tourism’s contribution to World Heritage Site management. Managing world heritage sites. pp.97-109.
                     </li>
                 </ul>
-    
+
             </div>
 
         </section>

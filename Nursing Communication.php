@@ -3,8 +3,7 @@
     <div class="main">
 
         <!--hero section start-->
-        <section class="hero-section ptb-100 gradient-overlay"
-            style="background: url('img/book3.jpg')no-repeat center center / cover">
+        <section class="hero-section ptb-100 gradient-overlay b12">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-md-6 col-lg-12">
@@ -266,10 +265,10 @@
         <br>
         <br>
         <!--our work or portfolio section start-->
-       
 
-       
-    
+
+
+
     <!--body content wrap end-->
 
 

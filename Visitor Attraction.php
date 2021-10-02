@@ -3,8 +3,7 @@
     <div class="main">
 
         <!--hero section start-->
-        <section class="hero-section ptb-100 gradient-overlay"
-            style="background: url('img/book3.jpg')no-repeat center center / cover">
+        <section class="hero-section ptb-100 gradient-overlay b12">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-md-6 col-lg-12">
@@ -30,15 +29,15 @@
             <br>
             <h5>Introduction</h5>
 
-         
+
 
 <br>
             <p>This industry of visitor’s attraction is hard to specify due to its overlapping activities with some other correspondent sectors that are together associated with the tact of travel and tourism. It is where this particular industrial sector of travel and tourism is evident to play a considerate role in enhancing the economic status of a nation (Albrecht, 2014). It is where visitor’s attraction usually involves fairground attractions such as theme parks, historical railways and certain other kind of city attractions like Madame Tussaud’s and London Eye in UK. It is hereby on defining the visitor’s attraction of UK, Merlin has been proven to be one of the large player in this particular industry with more number of attractive theme parks and other type of city attractions At present, it is at number 2 position for being the globe’s largest visitor attraction operator after Disney. As a result to which, they are currently operating with near about 13, 500 number of employees where exists approximately 35 million visitors every year. Merlin acquired numerous such attractions such as Legoland Parks in the year 2005, Gardaland in the year 2006 and Tussauds Group in the year 2007 (Berthon and et. al., 2008). All these acquisitions have in turn raised its standard denary in this 3 years. The attractions and parks owned by Merlin involves London Dungeon, Alton Towers, Sea life, Thorpe park, the London eye and Madame Tussauds. This industry is together referred to have a large number of autonomous fairground attractions and theme parks with a majority of them are nearby seaside resorts and are being operated by families.</p>
             <br>
             <p>TASK 1</p>
-            
+
             <h5>1.1 Overlap of visitor attractions in relation to particular types of attraction</h5>
-           
+
 <br>
 <p>Visitors attraction plays a greater role in the overall system of tourism in a nation where these are usually considered as natural locations that are either man made or are inherited by the nature and reflects as a major attractive force for the tourists as well as the localities. These are thereby refereed to be leading motivators that are further divided into four major classifications, as stated below- Constructions within a natural surrounding. Mad made buildings and structures designed to serve the intent of devising it as a visitor’s attraction such as spiritual activity (Del Chiappa, Andreu and Gallarza, 2014). However, in the present time, they are drawing the attention of appreciable strength of travellers who are exploiting them as comforts for leisure. Man made structures and buildings along with those sites whose scheming is specially done to attract a large set of tourists. This is for instance the theme parks that are specially built with a prime intent of accommodating the demand of visitors approaching for leisure tourism. Events are together considered to have a specific categorisation in visitor’s attraction. However, to elucidate the fact of overlapping of visitor’s attraction, the St. Paul’s Cathedral has been taken into consideration over here. It is a famous location with a substantial trait with respect to London skyline as the world’s illustrious dome. It is featuring renowned artistic work with complex mosaics that is referred to be a prime reason behind over-joying the visitors with such an exciting interior. Herein, the tourists can together refer to explore the crypt as a way of discovering the tombs and memorials of some notable national heroes (Dickinson and et.al., 2014). Additionally, the tourists can also refer to attempt acoustic quirks in its whispering gallery by climbing onto the Golden gallery to enjoy a fascinated panoramic view throughout London. Furthermore, St. Paul’s Cathedral is together referred to be a spiritual attraction to impart the sense of sacredness among the visitors who are not even Christians. Although, depicting a chief purpose of cathedral usually depicts a sacred place for worship by the Christians where it is also referred to be one of the oldest building in London that is constantly being used in its locality. As a result to which, it represents to be an overlapped visitor’s attraction in regard to serve as both inherited and cultural prospect of community people.</p>
 
@@ -84,7 +83,7 @@
     <li>Economic effect– It is with reference to the jobs created by tourism that are mostly seasonal in nature with a very inferior wage structure for the workers. Also, the monetary funds generated from tourism is not always referred to benefit the local community. It is because a huge portion is mostly being taken up large multinational organizations such as the hotel chains, etc. Moreover, there together exists a large set of destinations that are dependent on tourism are negatively affected by some atrocious events such as natural terrorism, natural disasters as well as economic depression.</li>
     <li>Social impact– It is mainly with reference to any atrocious behaviour of visitors that will negatively impact upon the quality life of the host communities (Connell, Page and Meyer, 2015).</li>
     <li>Environmental impact– Tourism is also posed to threat both the cultural and natural resources of a location due to over utilization of water supplies in the beaches, coral reefs and in certain heritage sites. It together results in raising the pollution level by traffic emissions and littering, etc.</li>
-    
+
 </ul>
 <br>
 <h5>2.3 Effect of different theories of tourist motivation on the management of visitor attractions</h5>
@@ -147,10 +146,10 @@ Conclusion
         <br>
         <br>
         <!--our work or portfolio section start-->
-      
 
-       
-   
+
+
+
 
 
     <?php include "footer.php"; ?>
