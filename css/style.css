@@ -89,8 +89,8 @@
     background-size: cover;
 }
 .opacity{
-    
-    
+
+
     box-shadow: solid 2px black;
 }
 .bgcolor{
@@ -184,7 +184,7 @@ button.srch {
 
 a.nav-link.active {
     font-weight: 700;
-    
+
     color: black
 }
 
@@ -195,7 +195,7 @@ a.navbar-brand {
 span.navbar-toggler.icon {
     color: black
 }
-/* 
+/*
 nav end */
 /*================
  Template Name: DigiMark Digital Marketing and Agency HTML Template
@@ -858,8 +858,8 @@ select.form-control.has-value{
     transition: all .3s ease-in-out;
 }
 .header nav.navbar.affix{
-   
-    
+
+
 }
 .navbar-brand {
     font-size: inherit;
@@ -4554,7 +4554,7 @@ a .single-promo-2 p {
     line-height: 24px;
     padding: 8px 0;
     color: inherit;
-   
+
 }
 
 .footer-nav-wrap ul li a:hover, .copyright-text a:hover, .social-list li a:hover {

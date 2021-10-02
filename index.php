@@ -2,7 +2,7 @@
 
 <!-- php link -->
 <?php
-    $url = "http://localhost/assignment%20writting/index.php"
+    $url = "http://localhost/Skilled%20writting/index.php"
      ?>
 
 
@@ -22,8 +22,8 @@
                     <div class="col-md-12 col-lg-5 bgcolor" >
                         <div class="hero-slider-content text-white pt-5">
 
-                            <h1 class="text-white  animate__animated animate__wobble ">The <span class="b11"> Assignment</span> Writing</h1>
-                            <strong class="lead">Quality Assignment Help By Expert Writers </strong>
+                            <h1 class="text-white  animate__animated animate__wobble ">The <span class="b11"> Skilled</span> Writing</h1>
+                            <strong class="lead">Quality Skilled Help By Expert Writers </strong>
                             <br>
                             <div class="elementor-widget-container">
                                 <ul class="elementor-icon-list-items">
@@ -48,17 +48,17 @@
                                     <li class="elementor-icon-list-item">
                                         <span class="elementor-icon-list-icon">
                                             <i aria-hidden="true" class="fas fa-check"></i> </span>
-                                        <span class="elementor-icon-list-text">Best Assignment Writer</span>
+                                        <span class="elementor-icon-list-text">Best Skilled Writer</span>
                                     </li>
                                     <li class="elementor-icon-list-item">
                                         <span class="elementor-icon-list-icon">
                                             <i aria-hidden="true" class="fas fa-check"></i> </span>
-                                        <span class="elementor-icon-list-text">Global Assignment Helper</span>
+                                        <span class="elementor-icon-list-text">Global Skilled Helper</span>
                                     </li>
                                     <li class="elementor-icon-list-item">
                                         <span class="elementor-icon-list-icon">
                                             <i aria-hidden="true" class="fas fa-check"></i> </span>
-                                        <span class="elementor-icon-list-text">5,067 Academic Assignment Writers</span>
+                                        <span class="elementor-icon-list-text">5,067 Academic Skilled Writers</span>
                                     </li>
                                 </ul>
                                 <div class="star text-white ">
@@ -140,26 +140,24 @@
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner  text-center">
                 <div class="carousel-item active ">
-                    <img class="img-fluid" src="img/ASSIGMENT WRITING POST-02.jpg" width="1200px" height="800"
+                    <img class="img-fluid" src="img/skilled1 (1).jpg" width="1200px" height="800"
                         alt="First slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="img-fluid" src="img/assignment help 2-01.jpg" width="1200px" height="800" alt="Second slide">
+                    <img class="img-fluid" src="img/skilled1 (2).jpg" width="1200px" height="800" alt="Second slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="img-fluid" src="img/3-01.jpg" width="1200px" height="800" alt="Third slide">
+                    <img class="img-fluid" src="img/skilled3.jpg" width="1200px" height="800" alt="Third slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="img-fluid" src="img/4-01.jpg" width="1200px" height="800" alt="fourth slide">
+                    <img class="img-fluid" src="img/skilled5.jpg" width="1200px" height="800" alt="fourth slide">
+                </div>
+
+                <div class="carousel-item">
+                    <img class="img-fluid" src="img/skilled7.jpg" width="1200px" height="800" alt="six slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="img-fluid" src="img/5-02.jpg" width="1200px" height="800" alt="fifth slide">
-                </div>
-                <div class="carousel-item">
-                    <img class="img-fluid" src="img/6-01.jpg" width="1200px" height="800" alt="six slide">
-                </div>
-                <div class="carousel-item">
-                    <img class="img-fluid" src="img/7-01.jpg" width="1200px" height="800" alt="seven slide">
+                    <img class="img-fluid" src="img/skilled8.jpg" width="1200px" height="800" alt="seven slide">
                 </div>
             </div>
             <a class="carousel-control-prev " href="#carouselExampleControls" role="button" data-slide="prev">
@@ -181,7 +179,7 @@
 
         <div class="container">
 
-            <h3 class="text-primary ">THE ASSIGNMENT WRITING TO MEET COURSEWORK OBLIGATIONS</h3>
+            <h3 class="text-primary ">THE Skilled WRITING TO MEET COURSEWORK OBLIGATIONS</h3>
 
             <p>Dealing with tasks can be a difficult and invigorating learning experience. It permits understudies to
 
@@ -197,7 +195,7 @@ they need exceptional support in chipping away at such assignments. With suffici
 
 can thrive and accomplish their life objectives. We are here to give solid</p>
 
-            <h4 class="text-primary "> CHALLENGES IN ACADEMIC ASSIGNMENT WRITING</h4>
+            <h4 class="text-primary "> CHALLENGES IN ACADEMIC Skilled WRITING</h4>
 
             <p><span>Understudies face a large group of special difficulties with regards to chipping away at
 
@@ -216,14 +214,14 @@ like wellbeing. These issues can influence the understudies' capacity to save ti
 projects. Other than that, the quantity of trick benefits out there is additionally shocking. A portion of these
 
 composing stages are known for submitting helpless work to customers.&nbsp; </span>
-                <span>The Assignment Writing&nbsp; and more.</span>
+                <span>The Skilled Writing&nbsp; and more.</span>
             </p>
             <h4 class=" text-primary "> THE SOLUTION</h4>
             <p><span>The best arrangement, for this situation, would be the understudy to put resources into a
 
 dependable task help stage. We are here to assist you with working such tasks and that's just the beginning. You round out
 
-the basic request frame and get alloted to one of our essayists at The Assignment Writing site.
+the basic request frame and get alloted to one of our essayists at The Skilled Writing site.
 
 All the more in this way, prior to choosing a specific scholastic help, we suggest that you assess the site
 
@@ -242,7 +240,7 @@ your questions quick.</span></p>
 
         <section class="promo-section ptb-100">
             <div class="container">
-                <h2 class="text-primary text-center animate__animated animate__heartBeat">Features of Our Assignment Service</h2>
+                <h2 class="text-primary text-center animate__animated animate__heartBeat">Features of Our Skilled Service</h2>
                 <span class="animate-border mr-auto ml-auto mb-4"></span>
                 <div class="row">
                     <div class="col-md-4 col-lg-4 p-4">
@@ -254,7 +252,7 @@ your questions quick.</span></p>
                                 </div>
                                 <h5 class="text-primary">On Time Delivery</h5>
                                 <p>Being the best professional writing services provider, we never compromise when it
-                                    comes to deadline and delivery of assignment on time. Our writers make sure that all
+                                    comes to deadline and delivery of Skilled on time. Our writers make sure that all
                                     orders
                                     are submitted prior to the deadline so that you can proofread your paper before
                                     handing it over to your tutor.</p>
@@ -271,7 +269,7 @@ your questions quick.</span></p>
                                 <p>You get premium service at the best market price. Our best price guarantee ensures
                                     that the features we offer cannot be matched by any of the competitors, in case they
                                     do
-                                    - “We will beat the price”. Thus, for an effective and cheap assignment help, always
+                                    - “We will beat the price”. Thus, for an effective and cheap Skilled help, always
                                     count on us.</p>
                             </div>
 
@@ -303,7 +301,7 @@ your questions quick.</span></p>
                                 </div>
                                 <h5 class="text-primary">Services For All Subjects</h5>
                                 <p>It does not matter whether you are a freshman in college or finishing your final
-                                    assignment to acquire Ph.D. degree, our writers can provide you professional writing
+                                    Skilled to acquire Ph.D. degree, our writers can provide you professional writing
                                     assistance
                                     on any subject at any level. We have experts for Law, Nursing, Management,
                                     Accounting, Marketing,</p>
@@ -334,7 +332,7 @@ your questions quick.</span></p>
                                 <h5 class="text-primary">24 X 7 Live Help+</h5>
                                 <p>We work 24x7 for your convenience. Our customer support executives are available
                                     round the clock in case you need any professional assistance. Feel free to contact
-                                    our assignment
+                                    our Skilled
                                     writing services any time via phone, email or live chat.</p>
                             </div>
 
@@ -388,7 +386,7 @@ your questions quick.</span></p>
                     <div class="col-md-8">
                         <div class="section-heading text-center mb-5">
 
-                            <h2 class="text-primary animate__animated animate__heartBeat"> 72% of students use assignment help services at least once. You
+                            <h2 class="text-primary animate__animated animate__heartBeat"> 72% of students use Skilled help services at least once. You
                                 just have to choose a quality writing company.</h2>
                             <span class="animate-border mr-auto ml-auto mb-4"></span>
 
@@ -506,7 +504,7 @@ your questions quick.</span></p>
                     <div class="col-md-8">
                         <div class="section-heading text-center mb-5">
 
-                            <h2 class="text-primary animate__animated animate__heartBeat">ASSIGNMENT HELP SERVICES</h2>
+                            <h2 class="text-primary animate__animated animate__heartBeat">Skilled HELP SERVICES</h2>
                             <span class="animate-border mr-auto ml-auto mb-4"></span>
 
                         </div>
@@ -527,7 +525,7 @@ your questions quick.</span></p>
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="services-single text-center p-5 my-md-3 my-lg-3 my-sm-0 shadow-sm white-bg rounded">
                             <span ><img src="img/ser1.png" class=" img-fluid" alt="" width="200px"></span>
-                            <h5>Custom Assignment Help</h5>
+                            <h5>Custom Skilled Help</h5>
                             <p class="mb-0">We provide most reliable and proficient service to help you work on those
                         intricate assignments. Our Ph.D. experts carry a distinctive mode of expression assisting
                         students to
@@ -579,7 +577,7 @@ your questions quick.</span></p>
             <div class="carousel-inner  text-center bg-primary ">
                 <div class="carousel-item active text-center text-white ">
                     <p>
-                        I was looking for someone who could do my assignment on a <br> complex topic. On a
+                        I was looking for someone who could do my Skilled on a <br> complex topic. On a
                         recommendation of a friend, I hired an online expert <br> from this website. He was incredibly
                         talented! I couldn’t ask for more. </p>
                     <span><img src="img/john.jpg" width="100" height="100" alt=""></span>

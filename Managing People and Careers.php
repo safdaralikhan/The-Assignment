@@ -673,7 +673,7 @@
             </div>
             <div class="row">
                 <div class="col-6">
-                    <p>During my tenure at BCD university, as part of my university assignment, I become made to
+                    <p>During my tenure at BCD university, as part of my university Skilled, I become made to
                         paintings with four college students in a group and demonstrate “the impact of non governmental
                         corporations on welfare of society”. When the the subject become given to us, my group friends
                         notion that supplying the statistics on issue depend in shape of written file could yield superb
@@ -681,10 +681,10 @@
                         additionally implemented the identical technique and attained most marks in class. I had a
                         contrasting notion as I taken into consideration approximately supplying the statistics in
                         visible shape with the aid of using manner of bars, charts and different statistical gear and
-                        techniques. I deliberate to make a 1 minute demo of the way I desired the assignment to be
+                        techniques. I deliberate to make a 1 minute demo of the way I desired the Skilled to be
                         executed. When I offered my perspectives in the front of organization with the aid of using
                         manner of a PPT, they had been satisfied with my technique and I become in the end a hit in
-                        persuading them to carry out the assignment in keeping with my view and belief.</p>
+                        persuading them to carry out the Skilled in keeping with my view and belief.</p>
                 </div>
                 <div class="col-6"></div>
             </div>
@@ -917,7 +917,7 @@
 
         </div>
 
-       
+
     <br>
     <br>
     <br>

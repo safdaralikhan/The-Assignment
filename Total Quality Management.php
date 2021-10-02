@@ -379,11 +379,11 @@
                 <div class="col-8">
                     <p>As if corporation does now no longer have right information and professional character chicken
                         it'd now no longer be capable of put into effect bench marking manner successfully. That is the
-                        most important assignment for the company that prohibited them on this manner. It complements
-                        the value of the McDonalds this is the assignment for the referred to company. Because for meet
+                        most important Skilled for the company that prohibited them on this manner. It complements
+                        the value of the McDonalds this is the Skilled for the referred to company. Because for meet
                         the requirements referred to company will must spend loads quantity in schooling and imposing
                         new technologies (Talib F. , 2013. ). Apart from this, dropping the originality is some other
-                        assignment for the corporation due to the fact for meet the requirements it's going to must
+                        Skilled for the corporation due to the fact for meet the requirements it's going to must
                         adjust its merchandise which can wreck its originality. It is probably viable that unswerving
                         purchasers do now no longer just like the adjust merchandise of McDonalds. It could be very hard
                         for the control of referred to company to make personnel apprehend approximately the brand new
@@ -590,7 +590,7 @@
             </div>
 
         </div>
-       
+
     <br>
     <br>
     <br>

@@ -1,4 +1,4 @@
-<?php include "header.php";?>   
+<?php include "header.php";?>
     <div class="main">
 
         <!--hero section start-->
@@ -71,7 +71,7 @@
                     <p>Taxation system imposed by government is also a major issue which can impact the redevelopment of the new hotel. Local authority imposes various tax on the construction process of any organization.</p>
                     </li>
                     <li>
-                    <p>Various policies and policies made with the aid of using authorities in regard of creation additionally influences the redevelopment assignment of the hotel. Hotel authority want to comply with the rules earlier than beginning its remodelling assignment.</p>
+                    <p>Various policies and policies made with the aid of using authorities in regard of creation additionally influences the redevelopment Skilled of the hotel. Hotel authority want to comply with the rules earlier than beginning its remodelling Skilled.</p>
                     </li>
                     </ul>
                     <br>
@@ -144,7 +144,7 @@
                     <h5>Conclusion</h5>
 
                     <p>From the above document it is able to be concluded that any new improvement calls for a creation technique that's first-rate appropriate for it. There are numerous troubles in modern creation techniques that can effect the redevelopment technique of the business enterprise. Modern techniques of creation like hybrid, tunnel, insulation framework and three dimensional volumetric strategies are very efficient. These tactics produces excessive great of work. There are numerous techniques of improvement and redevelopment that can assist in increase of lodge.  Brownfield and inexperienced discipline improvement are  maximum use improvement techniques .New lodge in Mong Kok can use brownfield improvement technique due to the fact reconstruction can assist lodge to generate greater sales and might provide profitability  withinside the market. Brown discipline improvement is maximum appropriate improvement technique that may be utilized by lodge. Tunnel shape technique of creation may be utilized by the business enterprise in remodelling of constructing. It is needed that lodge authority ought to evaluation its creation practices, circumstance of ground, technology, restrict at webweb page and authorities policies. Reviewing those elements will assist lodge to redevelop its constructing in better</p>
-                    
+
                     <h5>References</h5>
                     <br>
                     <ul>
@@ -198,10 +198,10 @@
                                 </ul>
 
                 <ul>
-                    
 
-               
-              
+
+
+
 
 
 
